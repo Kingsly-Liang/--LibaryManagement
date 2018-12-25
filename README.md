@@ -1,5 +1,5 @@
 # 图书管理系统
-展示部分功能和界面
+展示部分功能和界面  
 ![image](https://github.com/Kingsly-Liang/--LibaryManagement/blob/master/image2/1.PNG)
 ![image](https://github.com/Kingsly-Liang/--LibaryManagement/blob/master/image2/2.PNG)
 ![image](https://github.com/Kingsly-Liang/--LibaryManagement/blob/master/image2/3.PNG)
